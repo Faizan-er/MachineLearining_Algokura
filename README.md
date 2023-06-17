@@ -1,2 +1,2 @@
 # MachineLearining
-This contain ML algo notebook
+Serial wise notebook arranged for various machine learning algorithm
