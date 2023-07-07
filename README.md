@@ -1,5 +1,5 @@
 # MachineLearining
-Notebooks explaining various machine learning algorithm.
+Notebooks explaining various machine learning algorithms.
 
 
 regards
