@@ -5,4 +5,5 @@ Notebooks explaining various machine learning algorithms.
 regards
 --
 Faizan Shakeel
-Data Scientist (Domain: FinTech, BioTech, EDTech)
+Data Scientist
+\(Domain: FinTech, BioTech, EDTech)
