@@ -6,4 +6,4 @@ regards
 --
 Faizan Shakeel
 Data Scientist
-\(Domain: FinTech, BioTech, EDTech)
+\\(Domain: FinTech, BioTech, EDTech)
